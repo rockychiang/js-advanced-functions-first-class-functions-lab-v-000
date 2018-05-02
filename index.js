@@ -1,3 +1,3 @@
 const returnFirstTwoDrivers = function (driver) {
-  return driver.slice(0,1)
+  return driver.slice(0,2)
 }
