@@ -12,4 +12,4 @@ const createFareMultiplier = function (multiplier) {
   return function (fare) {return multiplier * fare}
 }
 
-const fareDoubler = createFareMuliplier(2)
+const fareDoubler = createFareMultiplier(2)
